@@ -1,0 +1,20 @@
+2021-07-01 03:02:04 [INFO] : test_dummy_booking1.py:18:: Test Dummy Ticket booking execution has started
+2021-07-01 03:02:04 [INFO] : dummy_ticket_search_page1.py:9:: Dummy Ticket booking class has started
+2021-07-01 03:02:04 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-01 03:02:04 [INFO] : test_dummy_booking1.py:20:: Enter the first name of passenger
+2021-07-01 03:02:04 [INFO] : selenium_code.py:55:: Enter text to given element :('travname', 'id')
+2021-07-01 03:02:08 [INFO] : selenium_code.py:64:: Element Found :('travname', 'id')
+2021-07-01 03:02:08 [INFO] : selenium_code.py:65:: Clicking on Element  :('travname', 'id')
+2021-07-01 03:02:10 [INFO] : test_dummy_booking1.py:22:: Enter the last name of passenger
+2021-07-01 03:02:10 [INFO] : selenium_code.py:55:: Enter text to given element :('travlastname', 'id')
+2021-07-01 03:02:10 [INFO] : selenium_code.py:64:: Element Found :('travlastname', 'id')
+2021-07-01 03:02:10 [INFO] : selenium_code.py:65:: Clicking on Element  :('travlastname', 'id')
+2021-07-01 03:02:11 [INFO] : test_dummy_booking1.py:28:: Enter the date of birth
+2021-07-01 03:02:11 [INFO] : selenium_code.py:36:: Click to given element :('dob', 'id')
+2021-07-01 03:02:11 [INFO] : selenium_code.py:46:: Element Found :('dob', 'id')
+2021-07-01 03:02:20 [INFO] : test_dummy_booking1.py:34:: Enter the gender 
+2021-07-01 03:02:20 [INFO] : selenium_code.py:36:: Click to given element :('sex_1', 'id')
+2021-07-01 03:02:20 [INFO] : selenium_code.py:46:: Element Found :('sex_1', 'id')
+2021-07-01 03:02:25 [INFO] : test_dummy_booking1.py:39:: Enter the extra passenger
+2021-07-01 03:02:25 [INFO] : selenium_code.py:36:: Click to given element :('addmorepax', 'id')
+2021-07-01 03:02:25 [INFO] : selenium_code.py:46:: Element Found :('addmorepax', 'id')

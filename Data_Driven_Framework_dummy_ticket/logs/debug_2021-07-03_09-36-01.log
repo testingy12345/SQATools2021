@@ -1,0 +1,93 @@
+2021-07-03 09:36:15 [INFO] : test_dummy_booking1.py:18:: Test Dummy Ticket booking execution has started
+2021-07-03 09:36:15 [INFO] : dummy_ticket_search_page1.py:9:: Dummy Ticket booking class has started
+2021-07-03 09:36:15 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-03 09:36:15 [INFO] : test_dummy_booking1.py:20:: Enter the first name of passenger
+2021-07-03 09:36:15 [INFO] : selenium_code.py:55:: Enter text to given element :('travname', 'id')
+2021-07-03 09:36:16 [INFO] : selenium_code.py:64:: Element Found :('travname', 'id')
+2021-07-03 09:36:16 [INFO] : selenium_code.py:65:: Clicking on Element  :('travname', 'id')
+2021-07-03 09:36:17 [INFO] : test_dummy_booking1.py:22:: Enter the last name of passenger
+2021-07-03 09:36:17 [INFO] : selenium_code.py:55:: Enter text to given element :('travlastname', 'id')
+2021-07-03 09:36:18 [INFO] : selenium_code.py:64:: Element Found :('travlastname', 'id')
+2021-07-03 09:36:18 [INFO] : selenium_code.py:65:: Clicking on Element  :('travlastname', 'id')
+2021-07-03 09:36:18 [INFO] : test_dummy_booking1.py:28:: Enter the date of birth
+2021-07-03 09:36:18 [INFO] : selenium_code.py:36:: Click to given element :('dob', 'id')
+2021-07-03 09:36:18 [INFO] : selenium_code.py:46:: Element Found :('dob', 'id')
+2021-07-03 09:36:24 [INFO] : test_dummy_booking1.py:34:: Enter the gender 
+2021-07-03 09:36:24 [INFO] : selenium_code.py:36:: Click to given element :('sex_1', 'id')
+2021-07-03 09:36:24 [INFO] : selenium_code.py:46:: Element Found :('sex_1', 'id')
+2021-07-03 09:36:29 [INFO] : test_dummy_booking1.py:39:: Enter the extra passenger
+2021-07-03 09:36:29 [INFO] : selenium_code.py:36:: Click to given element :('addmorepax', 'id')
+2021-07-03 09:36:29 [INFO] : selenium_code.py:46:: Element Found :('addmorepax', 'id')
+2021-07-03 09:36:34 [INFO] : test_dummy_booking1.py:44:: Enter add info
+2021-07-03 09:36:34 [INFO] : selenium_code.py:55:: Enter text to given element :('order_comments', 'id')
+2021-07-03 09:36:34 [INFO] : selenium_code.py:64:: Element Found :('order_comments', 'id')
+2021-07-03 09:36:34 [INFO] : selenium_code.py:65:: Clicking on Element  :('order_comments', 'id')
+2021-07-03 09:36:39 [INFO] : test_dummy_booking1.py:49:: Enter round trip
+2021-07-03 09:36:39 [INFO] : selenium_code.py:36:: Click to given element :('traveltype_2', 'id')
+2021-07-03 09:36:39 [INFO] : selenium_code.py:46:: Element Found :('traveltype_2', 'id')
+2021-07-03 09:36:45 [INFO] : test_dummy_booking1.py:54:: Enter origin and destination city
+2021-07-03 09:36:45 [INFO] : selenium_code.py:55:: Enter text to given element :('fromcity', 'id')
+2021-07-03 09:36:45 [INFO] : selenium_code.py:64:: Element Found :('fromcity', 'id')
+2021-07-03 09:36:45 [INFO] : selenium_code.py:65:: Clicking on Element  :('fromcity', 'id')
+2021-07-03 09:36:45 [INFO] : selenium_code.py:55:: Enter text to given element :('tocity', 'id')
+2021-07-03 09:36:45 [INFO] : selenium_code.py:64:: Element Found :('tocity', 'id')
+2021-07-03 09:36:45 [INFO] : selenium_code.py:65:: Clicking on Element  :('tocity', 'id')
+2021-07-03 09:36:50 [INFO] : test_dummy_booking1.py:60:: Enter departure month and year
+2021-07-03 09:36:50 [INFO] : selenium_code.py:36:: Click to given element :('departon', 'id')
+2021-07-03 09:36:50 [INFO] : selenium_code.py:46:: Element Found :('departon', 'id')
+2021-07-03 09:36:50 [INFO] : selenium_code.py:36:: Click to given element :('1', 'link')
+2021-07-03 09:36:50 [INFO] : selenium_code.py:46:: Element Found :('1', 'link')
+2021-07-03 09:36:55 [INFO] : test_dummy_booking1.py:65:: Enter return month and year
+2021-07-03 09:36:55 [INFO] : selenium_code.py:36:: Click to given element :('returndate', 'id')
+2021-07-03 09:36:56 [INFO] : selenium_code.py:46:: Element Found :('returndate', 'id')
+2021-07-03 09:36:56 [INFO] : selenium_code.py:36:: Click to given element :('30', 'link')
+2021-07-03 09:36:56 [INFO] : selenium_code.py:46:: Element Found :('30', 'link')
+2021-07-03 09:37:01 [INFO] : test_dummy_booking1.py:71:: Enter Visa appointment month and year
+2021-07-03 09:37:01 [INFO] : selenium_code.py:36:: Click to given element :('appoinmentdate', 'id')
+2021-07-03 09:37:01 [INFO] : selenium_code.py:46:: Element Found :('appoinmentdate', 'id')
+2021-07-03 09:37:02 [INFO] : selenium_code.py:36:: Click to given element :('28', 'link')
+2021-07-03 09:37:02 [INFO] : selenium_code.py:46:: Element Found :('28', 'link')
+2021-07-03 09:37:07 [INFO] : test_dummy_booking1.py:76:: Select both option
+2021-07-03 09:37:07 [INFO] : selenium_code.py:36:: Click to given element :('deliverymethod_3', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:46:: Element Found :('deliverymethod_3', 'id')
+2021-07-03 09:37:07 [INFO] : test_dummy_booking1.py:80:: Enter billing name
+2021-07-03 09:37:07 [INFO] : selenium_code.py:55:: Enter text to given element :('billname', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:64:: Element Found :('billname', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:65:: Clicking on Element  :('billname', 'id')
+2021-07-03 09:37:07 [INFO] : test_dummy_booking1.py:84:: Enter Phone Number
+2021-07-03 09:37:07 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_phone', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:64:: Element Found :('billing_phone', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_phone', 'id')
+2021-07-03 09:37:07 [INFO] : test_dummy_booking1.py:88:: Enter email address
+2021-07-03 09:37:07 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_email', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:64:: Element Found :('billing_email', 'id')
+2021-07-03 09:37:07 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_email', 'id')
+2021-07-03 09:37:07 [INFO] : test_dummy_booking1.py:92:: Enter Street Address
+2021-07-03 09:37:07 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_address_1', 'id')
+2021-07-03 09:37:08 [INFO] : selenium_code.py:64:: Element Found :('billing_address_1', 'id')
+2021-07-03 09:37:08 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_address_1', 'id')
+2021-07-03 09:37:08 [INFO] : test_dummy_booking1.py:97:: Select the country
+2021-07-03 09:37:08 [INFO] : selenium_code.py:36:: Click to given element :("//p[@id='billing_country_field']", 'xpath')
+2021-07-03 09:37:08 [INFO] : selenium_code.py:46:: Element Found :("//p[@id='billing_country_field']", 'xpath')
+2021-07-03 09:37:08 [INFO] : test_dummy_booking1.py:101:: Enter Appartment name
+2021-07-03 09:37:08 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_address_2', 'id')
+2021-07-03 09:37:08 [INFO] : selenium_code.py:64:: Element Found :('billing_address_2', 'id')
+2021-07-03 09:37:08 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_address_2', 'id')
+2021-07-03 09:37:08 [INFO] : test_dummy_booking1.py:105:: Enter Town city
+2021-07-03 09:37:08 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_city', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:64:: Element Found :('billing_city', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_city', 'id')
+2021-07-03 09:37:09 [INFO] : test_dummy_booking1.py:109:: Enter Country
+2021-07-03 09:37:09 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_state', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:64:: Element Found :('billing_state', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_state', 'id')
+2021-07-03 09:37:09 [INFO] : test_dummy_booking1.py:113:: Enter post code
+2021-07-03 09:37:09 [INFO] : selenium_code.py:55:: Enter text to given element :('billing_postcode', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:64:: Element Found :('billing_postcode', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:65:: Clicking on Element  :('billing_postcode', 'id')
+2021-07-03 09:37:09 [INFO] : test_dummy_booking1.py:117:: Enter order notes
+2021-07-03 09:37:09 [INFO] : selenium_code.py:55:: Enter text to given element :('order_comments', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:64:: Element Found :('order_comments', 'id')
+2021-07-03 09:37:09 [INFO] : selenium_code.py:65:: Clicking on Element  :('order_comments', 'id')
+2021-07-03 09:37:09 [INFO] : dummy_ticket_search_page1.py:104:: Dummy Ticket booking class has ended
+2021-07-03 09:37:09 [INFO] : test_dummy_booking1.py:119:: Test dummy ticket excution has finished 

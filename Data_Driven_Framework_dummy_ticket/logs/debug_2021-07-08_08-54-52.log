@@ -1,0 +1,57 @@
+2021-07-08 08:55:12 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:55:12 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:55:14 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:55:24 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:55:24 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:55:24 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:55:34 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:55:34 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6002]//parent::tr//input', 'xpath')
+2021-07-08 08:55:34 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6002]//parent::tr//input', 'xpath')
+2021-07-08 08:55:44 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:55:44 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6003]//parent::tr//input', 'xpath')
+2021-07-08 08:55:44 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6003]//parent::tr//input', 'xpath')
+2021-07-08 08:55:54 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:55:54 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6004]//parent::tr//input', 'xpath')
+2021-07-08 08:55:55 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6004]//parent::tr//input', 'xpath')
+2021-07-08 08:56:05 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:05 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6005]//parent::tr//input', 'xpath')
+2021-07-08 08:56:05 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6005]//parent::tr//input', 'xpath')
+2021-07-08 08:56:15 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:15 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6006]//parent::tr//input', 'xpath')
+2021-07-08 08:56:15 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6006]//parent::tr//input', 'xpath')
+2021-07-08 08:56:25 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:25 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6007]//parent::tr//input', 'xpath')
+2021-07-08 08:56:25 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6007]//parent::tr//input', 'xpath')
+2021-07-08 08:56:35 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:35 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6008]//parent::tr//input', 'xpath')
+2021-07-08 08:56:36 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6008]//parent::tr//input', 'xpath')
+2021-07-08 08:56:46 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:46 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6009]//parent::tr//input', 'xpath')
+2021-07-08 08:56:46 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6009]//parent::tr//input', 'xpath')
+2021-07-08 08:56:56 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:56:56 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6010]//parent::tr//input', 'xpath')
+2021-07-08 08:56:56 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6010]//parent::tr//input', 'xpath')
+2021-07-08 08:57:06 [INFO] : test_dynamic_data.py:36:: institude id from excel 6001 
+2021-07-08 08:57:06 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:57:07 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6001]//parent::tr//input', 'xpath')
+2021-07-08 08:57:12 [INFO] : test_dynamic_data.py:36:: institude id from excel 6002 
+2021-07-08 08:57:12 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6002]//parent::tr//input', 'xpath')
+2021-07-08 08:57:12 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6002]//parent::tr//input', 'xpath')
+2021-07-08 08:57:17 [INFO] : test_dynamic_data.py:36:: institude id from excel 6003 
+2021-07-08 08:57:17 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6003]//parent::tr//input', 'xpath')
+2021-07-08 08:57:17 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6003]//parent::tr//input', 'xpath')
+2021-07-08 08:57:22 [INFO] : test_dynamic_data.py:36:: institude id from excel 6004 
+2021-07-08 08:57:22 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6004]//parent::tr//input', 'xpath')
+2021-07-08 08:57:22 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6004]//parent::tr//input', 'xpath')
+2021-07-08 08:57:28 [INFO] : test_dynamic_data.py:36:: institude id from excel 6005 
+2021-07-08 08:57:28 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6005]//parent::tr//input', 'xpath')
+2021-07-08 08:57:28 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6005]//parent::tr//input', 'xpath')
+2021-07-08 08:57:33 [INFO] : test_dynamic_data.py:36:: institude id from excel 6006 
+2021-07-08 08:57:33 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6006]//parent::tr//input', 'xpath')
+2021-07-08 08:57:33 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6006]//parent::tr//input', 'xpath')
+2021-07-08 08:57:38 [INFO] : test_dynamic_data.py:36:: institude id from excel 6007 
+2021-07-08 08:57:38 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6007]//parent::tr//input', 'xpath')
+2021-07-08 08:57:38 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6007]//parent::tr//input', 'xpath')
+2021-07-08 08:57:43 [INFO] : test_dynamic_data.py:36:: institude id from excel 6008 
+2021-07-08 08:57:43 [INFO] : selenium_code.py:36:: Click to given element :('//td[text()=6008]//parent::tr//input', 'xpath')
+2021-07-08 08:57:43 [INFO] : selenium_code.py:46:: Element Found :('//td[text()=6008]//parent::tr//input', 'xpath')

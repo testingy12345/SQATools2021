@@ -1,0 +1,31 @@
+1618918058353	geckodriver	INFO	Listening on 127.0.0.1:59974
+1618918061465	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\veteran\\AppData\\Local\\Temp\\rust_mozprofileR7Akll"
+1618931123118	geckodriver	INFO	Listening on 127.0.0.1:62276
+1618931126481	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\veteran\\AppData\\Local\\Temp\\rust_mozprofileenSaOX"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618931155026	Marionette	INFO	Listening on port 62289
+1618931155689	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1618931196052	Marionette	INFO	Stopped listening on port 62289
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+[Parent 8388, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1618932195748	geckodriver	INFO	Listening on 127.0.0.1:63380
+1618932199167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\veteran\\AppData\\Local\\Temp\\rust_mozprofileWwOgGD"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1618932223184	Marionette	INFO	Listening on port 63396
+1618932223915	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NetworkError: A network error occurred.
+1618932263185	Marionette	INFO	Stopped listening on port 63396
+[Parent 12072, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:166
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

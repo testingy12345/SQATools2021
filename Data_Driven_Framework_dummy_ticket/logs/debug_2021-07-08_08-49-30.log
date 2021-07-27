@@ -1,0 +1,9 @@
+2021-07-08 08:49:47 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:49:47 [INFO] : selenium_code.py:36:: Click to given element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
+2021-07-08 08:49:58 [INFO] : selenium_code.py:49:: Unable to Find Element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
+2021-07-08 08:49:59 [INFO] : selenium_code.py:19:: browser initialized
+2021-07-08 08:49:59 [INFO] : selenium_code.py:36:: Click to given element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
+2021-07-08 08:50:10 [INFO] : selenium_code.py:49:: Unable to Find Element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
+2021-07-08 08:50:10 [INFO] : test_dynamic_data.py:36:: institude id from excel 6001 
+2021-07-08 08:50:10 [INFO] : selenium_code.py:36:: Click to given element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
+2021-07-08 08:50:21 [INFO] : selenium_code.py:49:: Unable to Find Element :("//td[text()='institude_id']//parent::tr//input", 'xpath')
